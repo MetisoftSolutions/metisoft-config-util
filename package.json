@@ -1,0 +1,29 @@
+{
+  "name": "metisoft-config-util",
+  "version": "0.0.0",
+  "versionUpdate": "update-major-DRT-2",
+  "description": "Iron Forge Configuration File Utilities",
+  "main": "index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MetisoftSolutions/metisoft-config-util.git"
+  },
+  "keywords": [],
+  "author": "Iron Forge Development, LLC",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/MetisoftSolutions/metisoft-config-util/issues"
+  },
+  "homepage": "https://github.com/MetisoftSolutions/metisoft-config-util#readme",
+  "dependencies": {
+    "@types/lodash": "^4.14.136",
+    "@types/node": "^12.6.9",
+    "jsonschema": "^1.2.4",
+    "lodash": "^4.17.15",
+    "typescript": "3.5.3"
+  }
+}
