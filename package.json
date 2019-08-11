@@ -1,6 +1,6 @@
 {
   "name": "metisoft-config-util",
-  "version": "1.0.0",
+  "version": "0.0.0-update-major",
   "description": "Iron Forge Configuration File Utilities",
   "main": "index.js",
   "types": "dist/index.d.ts",
