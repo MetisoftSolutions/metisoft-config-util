@@ -1,7 +1,6 @@
 {
   "name": "metisoft-config-util",
-  "version": "0.0.0",
-  "versionUpdate": "update-major-DRT-2",
+  "version": "0.0.0-update-major",
   "description": "Iron Forge Configuration File Utilities",
   "main": "index.js",
   "types": "dist/index.d.ts",
@@ -25,5 +24,8 @@
     "jsonschema": "^1.2.4",
     "lodash": "^4.17.15",
     "typescript": "3.5.3"
+  },
+  "devDependencies": {
+    "metisoft-deploy-tools": "git+https://github.com/MetisoftSolutions/metisoft-deploy-tools.git#semver:^2.1.0"
   }
 }
