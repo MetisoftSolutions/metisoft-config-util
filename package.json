@@ -23,7 +23,7 @@
     "@types/lodash": "^4.14.136",
     "@types/node": "^12.6.9",
     "jsonschema": "^1.2.4",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "typescript": "3.5.3"
   }
 }
