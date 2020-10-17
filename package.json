@@ -1,6 +1,6 @@
 {
   "name": "metisoft-config-util",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Iron Forge Configuration File Utilities",
   "main": "index.js",
   "types": "dist/index.d.ts",
@@ -26,6 +26,6 @@
     "typescript": "^4.0.3"
   },
   "devDependencies": {
-    "metisoft-deploy-tools": "git+https://github.com/MetisoftSolutions/metisoft-deploy-tools.git#semver:^2.1.3"
+    "metisoft-deploy-tools": "git+https://github.com/MetisoftSolutions/metisoft-deploy-tools.git#semver:^2.1.4"
   }
 }
